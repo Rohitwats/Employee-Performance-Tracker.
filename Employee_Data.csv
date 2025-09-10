@@ -1,0 +1,51 @@
+EmployeeID,Name,Department,Role,JoinDate,AttendancePct,PerformanceScore,Target,Achieved,ProjectsCompleted,TrainingHours,ManagerRating,AnnualSalary
+EMP001,Neha Verma,HR,HR Executive,2021-03-18,85.4,92.6,158,146,6,6,4.0,541595
+EMP002,Ananya Nair,Sales,Inside Sales,2022-05-15,96.1,84.0,107,94,11,11,3.6,706911
+EMP003,Vikram Reddy,Finance,Accountant,2023-07-21,88.6,74.7,192,187,11,8,2.9,771071
+EMP004,Kunal Mehta,Sales,Sales Exec,2023-01-21,84.9,98.3,80,36,6,17,3.7,1054126
+EMP005,Vivaan Mehta,Sales,Sales Exec,2023-02-08,93.6,60.2,91,46,8,17,3.4,713183
+EMP006,Ananya Khan,Sales,Inside Sales,2022-12-21,94.7,76.2,77,63,5,26,4.7,770615
+EMP007,Mihir Verma,Operations,QC Analyst,2022-02-19,89.7,96.5,154,144,1,15,4.0,833335
+EMP008,Neha Verma,Finance,AR Specialist,2021-08-24,87.2,89.9,176,147,6,30,3.3,737242
+EMP009,Anika Singh,Marketing,SEO Analyst,2021-05-17,77.6,66.4,95,81,5,31,3.1,1016751
+EMP010,Diya Gupta,HR,Recruiter,2022-06-07,100.0,75.9,183,206,11,5,4.2,1088104
+EMP011,Anika Iyer,Finance,Financial Analyst,2021-10-04,99.5,76.8,157,157,1,16,3.2,1031546
+EMP012,Mihir Reddy,Sales,Inside Sales,2022-03-04,100.0,84.7,173,120,1,23,2.4,846993
+EMP013,Anika Patel,HR,HR Executive,2023-04-09,93.6,66.2,69,68,2,32,2.9,1071278
+EMP014,Aisha Reddy,Finance,Accountant,2021-02-03,99.4,79.6,196,149,10,36,3.5,477779
+EMP015,Anika Mehta,IT,System Admin,2022-03-18,94.1,82.8,75,84,7,9,4.1,331975
+EMP016,Mihir Kapoor,HR,Recruiter,2021-10-09,88.2,73.7,154,108,4,25,3.7,1146595
+EMP017,Kabir Iyer,HR,Recruiter,2023-09-20,100.0,75.7,179,199,1,13,4.0,549497
+EMP018,Vivaan Pandey,Operations,Ops Coordinator,2021-05-01,83.8,80.1,104,69,6,23,3.6,585339
+EMP019,Rohit Kapoor,Finance,Financial Analyst,2023-01-08,84.8,73.6,103,69,11,33,3.5,396189
+EMP020,Vivaan Gupta,HR,HR Analyst,2022-01-05,85.8,62.6,91,98,5,27,3.8,836059
+EMP021,Aadhya Yadav,Finance,Financial Analyst,2023-01-22,89.1,83.8,93,107,8,9,4.4,1176128
+EMP022,Kunal Verma,Marketing,Content Strategist,2023-08-14,100.0,63.0,55,64,3,15,4.2,521754
+EMP023,Anika Yadav,Operations,Ops Coordinator,2022-08-20,69.3,62.0,65,72,7,12,4.1,1006878
+EMP024,Priya Agarwal,HR,HR Analyst,2021-05-26,90.4,90.2,93,128,3,34,3.9,679128
+EMP025,Vivaan Patel,Finance,Financial Analyst,2023-06-12,77.1,88.5,163,83,10,6,5.0,801585
+EMP026,Vivaan Verma,HR,Recruiter,2021-11-24,95.5,79.5,139,106,4,35,4.6,594564
+EMP027,Riya Kapoor,Operations,QC Analyst,2023-06-08,77.0,89.6,58,40,4,36,3.6,448479
+EMP028,Neha Nair,HR,HR Analyst,2023-02-17,83.3,78.4,189,224,6,7,3.3,395453
+EMP029,Priya Iyer,Sales,Account Manager,2021-05-30,88.1,69.0,67,70,11,20,3.4,305077
+EMP030,Tara Verma,Finance,Accountant,2023-09-27,87.0,72.8,130,80,10,35,4.8,1084714
+EMP031,Diya Khan,Marketing,Content Strategist,2022-12-19,85.7,72.2,122,143,3,27,3.8,636779
+EMP032,Tara Patel,IT,Software Engineer,2023-02-15,87.1,64.0,65,68,6,5,3.6,1013683
+EMP033,Neha Das,Marketing,Content Strategist,2021-02-21,80.5,82.9,101,92,8,30,4.2,398935
+EMP034,Anika Das,Marketing,Content Strategist,2023-04-19,73.9,81.8,161,148,9,30,3.5,397365
+EMP035,Priya Bose,Operations,Supply Planner,2023-04-13,93.6,72.0,124,126,9,29,3.4,1168361
+EMP036,Vivaan Iyer,Marketing,SEO Analyst,2021-09-14,83.5,73.7,130,75,6,13,3.1,303834
+EMP037,Kabir Sharma,Marketing,SEO Analyst,2022-04-17,84.9,60.8,189,191,8,14,3.1,723799
+EMP038,Aadhya Das,IT,System Admin,2023-08-28,98.3,68.5,176,162,8,19,5.0,941094
+EMP039,Diya Mehta,HR,HR Executive,2021-10-02,88.6,85.8,86,95,9,21,3.7,616531
+EMP040,Aisha Yadav,Finance,Financial Analyst,2022-01-12,82.8,66.0,135,122,7,27,3.0,396832
+EMP041,Vikram Verma,Marketing,Brand Associate,2022-10-09,86.2,82.0,98,101,7,16,3.8,636741
+EMP042,Anika Bose,IT,System Admin,2023-06-24,85.9,80.3,87,58,7,12,3.5,817432
+EMP043,Neha Gupta,IT,Software Engineer,2023-07-26,84.8,64.6,146,93,4,11,3.4,1075680
+EMP044,Neha Verma,IT,System Admin,2022-11-29,100.0,70.6,127,59,6,39,4.1,1006018
+EMP045,Ishaan Kapoor,Marketing,SEO Analyst,2023-04-08,88.1,67.3,105,92,1,12,3.3,1018886
+EMP046,Rohit Verma,Marketing,SEO Analyst,2022-11-18,84.1,80.3,74,65,3,38,3.9,812997
+EMP047,Mihir Singh,Sales,Sales Exec,2022-01-04,74.1,75.4,137,129,10,8,4.9,843287
+EMP048,Priya Sharma,Finance,Accountant,2023-09-17,87.9,66.1,144,139,6,21,3.8,1112397
+EMP049,Aisha Bose,Sales,Sales Exec,2021-01-16,86.2,54.3,121,109,4,38,3.7,1125286
+EMP050,Arjun Nair,Marketing,Brand Associate,2022-08-08,80.9,75.1,141,193,8,37,4.2,720757

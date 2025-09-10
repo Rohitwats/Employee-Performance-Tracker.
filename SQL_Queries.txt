@@ -1,0 +1,16 @@
+-- 1) Average Performance by Department
+SELECT Department, ROUND(AVG(PerformanceScore),2) AS AvgPerformance
+FROM employees GROUP BY Department ORDER BY AvgPerformance DESC;
+
+-- 2) Target vs Achieved by Department
+SELECT Department, SUM(Target) AS TotalTarget, SUM(Achieved) AS TotalAchieved,
+       ROUND(100.0*SUM(Achieved)/NULLIF(SUM(Target),0),2) AS AchievementPct
+FROM employees GROUP BY Department ORDER BY AchievementPct DESC;
+
+-- 3) Top 5 Performers
+SELECT EmployeeID, Name, Department, PerformanceScore
+FROM employees ORDER BY PerformanceScore DESC LIMIT 5;
+
+-- 4) Underperformers (Perf <65 or Attendance <75%)
+SELECT EmployeeID, Name, Department, PerformanceScore, AttendancePct
+FROM employees WHERE PerformanceScore<65 OR AttendancePct<75;
